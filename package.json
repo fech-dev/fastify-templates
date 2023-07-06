@@ -1,0 +1,9 @@
+{
+  "name": "fastify-templates",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A List of fastify starter projects",
+  "keywords": ["Fastify", "fastify-cli", "template", "templates", "node", "nodejs"],
+  "author": "Mameli Federico",
+  "license": "ISC"
+}
